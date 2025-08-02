@@ -39,7 +39,7 @@ An intelligent, hands-free whiteboard system built using **OpenCV**, **MediaPipe
 1. **Clone the repository**
    ```bash
    git clone https://github.com/himanshu9470/SkySketch-Real-Time-Gesture-Writing-
-   cd gesture-whiteboard
+   cd SkySketch-Real-Time-Gesture-Writing-
 
 
 2. **Install dependencies**
